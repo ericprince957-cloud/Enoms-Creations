@@ -1,0 +1,80 @@
+{
+  "whatsappNumber": "2348037164284",
+  "location": "Allen Avenue, Ikeja, Lagos",
+  "packages": [
+    {
+      "id": "birthday-blast",
+      "name": "Birthday Blast",
+      "tagline": "Vibrant. Fun. Unforgettable.",
+      "priceRange": "From ₦150,000",
+      "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=800&q=70",
+      "inclusions": [
+        "Themed décor & balloon styling",
+        "Cake table setup",
+        "DJ & MC coordination",
+        "Photography coverage (2 hrs)",
+        "Party favors & invitations"
+      ]
+    },
+    {
+      "id": "wedding-elegance",
+      "name": "Wedding Elegance",
+      "tagline": "Timeless luxury for your big day.",
+      "priceRange": "From ₦850,000",
+      "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=800&q=70",
+      "inclusions": [
+        "Full venue transformation & floral décor",
+        "Bridal coordination & timeline management",
+        "Premium lighting & drapery",
+        "Vendor management (catering, DJ, live band)",
+        "Photography & cinematography coordination"
+      ]
+    },
+    {
+      "id": "corporate-gala",
+      "name": "Corporate Gala",
+      "tagline": "Polished events that elevate brands.",
+      "priceRange": "From ₦500,000",
+      "image": "https://images.unsplash.com/photo-1464366403482-8a49d526f1bf?auto=format&fit=crop&w=800&q=70",
+      "inclusions": [
+        "Brand-themed stage & backdrop design",
+        "AV, sound & lighting production",
+        "Guest registration & ushering",
+        "Award & recognition styling",
+        "On-site event management team"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "id": "g1",
+      "alt": "Elegant wedding reception setup",
+      "url": "https://images.unsplash.com/photo-1519741497674-611491c1d9f6?auto=format&fit=crop&w=600&q=70"
+    },
+    {
+      "id": "g2",
+      "alt": "Luxury birthday party décor",
+      "url": "https://images.unsplash.com/photo-1492683236023-708cb2ad1e79?auto=format&fit=crop&w=600&q=70"
+    },
+    {
+      "id": "g3",
+      "alt": "Corporate gala dinner",
+      "url": "https://images.unsplash.com/photo-1478146896981-b80fe463b330?auto=format&fit=crop&w=600&q=70"
+    },
+    {
+      "id": "g4",
+      "alt": "Gold-themed event tablescape",
+      "url": "https://images.unsplash.com/photo-1469371563916-3d8addb5b676?auto=format&fit=crop&w=600&q=70"
+    },
+    {
+      "id": "g5",
+      "alt": "Celebration sparklers moment",
+      "url": "https://images.unsplash.com/photo-1519674807507-ff75efbc17b4?auto=format&fit=crop&w=600&q=70"
+    },
+    {
+      "id": "g6",
+      "alt": "Elegant event lighting",
+      "url": "https://images.unsplash.com/photo-1512058556644-597e7ba6d0ca?auto=format&fit=crop&w=600&q=70"
+    }
+  ]
+}
